@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jared Matta</h1>
-<h3 align="center">A nomadic software & hardware engineer.</h3>
-<img width="180" align="left" src="https://jared-mattas-portfolio.s3.us-west-1.amazonaws.com/Personal/DESIGN_aa_black_logo.JPG" alt="coding">
+<h3 align="center">I am a nomadic software & hardware engineer.</h3>
+<img width=210" align="left" src="https://jared-mattas-portfolio.s3.us-west-1.amazonaws.com/Personal/DESIGN_aa_black_logo.JPG" alt="coding">
 
-
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> </p>
-
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
 - 🔭 I’m currently working on **Cat Combat**
 
 - 🌱 I’m currently learning **Docker, Kubernetes's**
