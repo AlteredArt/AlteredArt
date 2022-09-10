@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Video Games**
 
-- 👨‍💻 All of my projects are available at [https://jared-matta.web.app/](https://jared-matta.web.app/)
+- 👨‍💻 All of my projects are available at [https://jaredmatta.com/](https://jaredmatta.com/)
 
 - 📝 I regularly write articles on **Botony**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cherokeedreemer@gmail.com**
 
-- 📄 Know about my experiences [https://jared-mattas-portfolio.s3.us-west-1.amazonaws.com/Personal/Jared_Mattas_Resume.pdf](https://jared-mattas-portfolio.s3.us-west-1.amazonaws.com/Personal/Jared_Mattas_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Hh37SFRRhExo4oyZWMxv60c4B4lWRZT/view)
 
 - ⚡ Fun fact **<a href="https://linkedin.com/in/jared-matta-33629a19a" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jared-matta-33629a19a" height="20" width="30" /></a>is the only social media platform I use.**
 
