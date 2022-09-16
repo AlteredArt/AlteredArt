@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared Matta</h1>
-<h3 align="center">I am a nomadic software & hardware engineer.</h3>
-<img width=110" align="left" src="https://jared-mattas-portfolio.s3.us-west-1.amazonaws.com/Personal/DESIGN_aa_black_logo.JPG" alt="coding">
+<h3 align="center">I am a nomadic software & hardware engineer, with a background in Art.</h3>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
 - 🔭 I’m currently working on **RFID Technology**
@@ -13,7 +12,7 @@
 
 - 📝 I regularly write articles on **Botony**
 
-- 💬 Ask me about **Nature**
+- 💬 Ask me about **Quantum Physics**
 
 - 📫 How to reach me **cherokeedreemer@gmail.com**
 
