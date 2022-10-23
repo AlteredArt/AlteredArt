@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Video Games**
 
-- 👨‍💻 All of my projects are available at [https://jaredmatta.com/](jaredmatta.com)
+- 👨‍💻 All of my projects are available at [jaredmatta.com](https://jaredmatta.com/)
 
 - 📝 I regularly write articles on **Botony**
 
