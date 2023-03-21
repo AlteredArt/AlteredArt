@@ -50,6 +50,6 @@
 <h3 align="left">Technologies I am currently trying to get better in:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,unreal,vim" />
+    <img src="https://skillicons.dev/icons?i=unreal" />
   </a>
 </p>
