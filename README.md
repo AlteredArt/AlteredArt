@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared Matta</h1>
-<h3 align="center">I am a nomadic software & hardware engineer, with a background in Art.</h3>
+<h3 align="center">I am a nomadic software & hardware engineer, with a background in Art & Graphic design.</h3>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
 - 🔭 I’m currently working on **A Zombie Video Game**
@@ -26,7 +26,7 @@
 
  <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,aws,babel,cloudflare,wepback" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,aws,cloudflare" />
   </a>
 </p>
 
@@ -35,14 +35,14 @@
 <h3 align="left">Technologies that I have lot's of exposure too:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,ai,jquery,linkedin,materialui,ps,redux,regex,sass" />
+    <img src="https://skillicons.dev/icons?i=arduino,ai,bootstrap,eclipse,firebase,git,instagram,jquery,linkedin,materialui,mongodb,ps,redux,regex,sass" />
   </a>
 </p>
 
 <h3 align="left">Technologies I used once before:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,c,cpp,codepen,discord,django,docker,eclipse,firebase,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,babel,c,cpp,cs,codepen,discord,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
   </a>
 </p>
 
