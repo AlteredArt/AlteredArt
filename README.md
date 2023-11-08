@@ -2,6 +2,7 @@
 <h3 align="center">I am a nomadic software & hardware engineer, with a background in Art & Graphic design.</h3>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
+ 
 - 🔭 I’m currently working on **A Zombie Video Game**
 
 - 🌱 I’m currently learning **Unreal Engine 5**
@@ -10,27 +11,17 @@
 
 - 👨‍💻 All of my projects are available at [jaredmatta.com](https://jaredmatta.com/)
 
-- 📝 I regularly write articles on **Botony**
-
-- 💬 Ask me about **Quantum Physics**
-
 - 📫 How to reach me **cherokeedreemer@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Hh37SFRRhExo4oyZWMxv60c4B4lWRZT/view)
-
-- ⚡ Fun fact **<a href="https://linkedin.com/in/jared-matta-33629a19a" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jared-matta-33629a19a" height="20" width="30" /></a>is the only social media platform I use.**
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QCzVV6FQO7BPlzdgDuGXq377HijsnjW3/view?usp=drive_link)
 
 
 <h3 align="left">Technologies that I use daily:</h3>
-
  <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,aws,cloudflare" />
   </a>
 </p>
-
-
 
 <h3 align="left">Technologies that I have lot's of exposure too:</h3>
 <p align="">
@@ -42,14 +33,7 @@
 <h3 align="left">Technologies I used once before:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,atom,babel,c,cpp,cs,codepen,discord,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,babel,c,cpp,cs,codepe,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
   </a>
 </p>
 
-
-<h3 align="left">Technologies I am currently trying to get better in:</h3>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal" />
-  </a>
-</p>
