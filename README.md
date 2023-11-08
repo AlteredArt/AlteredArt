@@ -33,7 +33,7 @@
 <h3 align="left">Technologies I used once before:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,babel,c,cpp,cs,codepe,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,babel,c,cpp,cs,codepen,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
   </a>
 </p>
 
