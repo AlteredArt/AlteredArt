@@ -5,15 +5,15 @@
  
 - 🔭 I’m currently working on **A Zombie Video Game**
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **anything to do with microprocessors**
+- 👯 I’m looking to collaborate on **anything to do with game development**
 
 - 👨‍💻 All of my projects are available at [jaredmatta.com](https://jaredmatta.com/)
 
 - 📫 How to reach me **cherokeedreemer@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QCzVV6FQO7BPlzdgDuGXq377HijsnjW3/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LQ6vUlNa3N0oy0J43MVqdNNW9MKWG58_/view?usp=sharing)
 
 
 <h3 align="left">Technologies that I use daily:</h3>
