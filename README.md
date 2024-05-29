@@ -19,21 +19,21 @@
 <h3 align="left">Technologies that I use daily:</h3>
  <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,github,vscode,react,js,html,css,nodejs,php,wordpress,mysql,cloudflare" />
   </a>
 </p>
 
 <h3 align="left">Technologies that I have lot's of exposure too:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,ai,bootstrap,eclipse,firebase,git,instagram,jquery,linkedin,materialui,mongodb,ps,redux,regex,sass" />
+    <img src="https://skillicons.dev/icons?i=arduino,ai,bootstrap,eclipse,firebase,git,jquery,materialui,mongodb,ps,redux,regex,sass" />
   </a>
 </p>
 
 <h3 align="left">Technologies I used once before:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,angular,babel,c,cpp,cs,codepen,django,docker,gitlab,graphql,gulp,heroku,java,jenkins,jest,kubernetes,matlab,nginx,postgres,py,rails,raspberrypi,ts,unity,visualstudio,vue" />
+    <img src="https://skillicons.dev/icons?i=ae,angular,c,cpp,cs,django,docker,graphql,java,jest,kubernetes,postgres,rails,ts,vue" />
   </a>
 </p>
 
