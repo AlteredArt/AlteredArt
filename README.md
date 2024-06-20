@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cherokeedreemer@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LQ6vUlNa3N0oy0J43MVqdNNW9MKWG58_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EhhC0zWv8qX3Btfwp914RacYr6_XSAPS/view?usp=sharing)
 
 
 <h3 align="left">Technologies that I use daily:</h3>
