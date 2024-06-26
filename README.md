@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jared Matta</h1>
+<h1 align="center">Hello 👋, my name is Jared</h1>
 <h3 align="center">I am Native American and a software & hardware engineer, with a background in Art & Graphic design.</h3>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alteredart" alt="alteredart" /></a> 
  
-- 🔭 I’m currently working on **A Zombie Video Game**
+- 🔭 I’m currently working on **a secret app idea**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python Networking**
 
-- 👯 I’m looking to collaborate on **anything to do with game development**
+- 👯 I’m looking to collaborate on **anything to do with game development or learning AI**
 
 - 👨‍💻 All of my projects are available at [jaredmatta.com](https://jaredmatta.com/)
 
